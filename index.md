@@ -5,8 +5,9 @@
 
 ### Homework 2
 
-[Link](Homework 2.R)
-[Link](Homework 2.R)
+[link](Homework-2.html)
+
+[link](Homework 2.R)
 
 ### Homework 3
 
