@@ -1,11 +1,13 @@
 ## Welcome to My GitHub Page
 
 ### Homework 1
+[link](https://moodle.boun.edu.tr/login/)
+
 ### Homework 2
 
-[Here](https://github.com/ETM-58D/spring22-okansayar/blob/gh-pages/HomeWork1%20(OS).R)
+[Here](
 
 ### Homework 3
 
 
-[link](https://moodle.boun.edu.tr/login/)
+
