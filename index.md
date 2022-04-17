@@ -5,9 +5,9 @@
 
 ### Homework 2
 
-[here](Homework-2.html) ##is the HTML file for First Homework
+[here](Homework-2.html) is the HTML file for First Homework
 
-[here](Homework 2.R) ##is the R Script for First Homework
+[here](Homework 2.R) is the R Script for First Homework
 
 ### Homework 3
 
