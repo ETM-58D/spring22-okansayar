@@ -7,7 +7,7 @@
 
 [link](Homework-2.html)
 
-[link](Homework 2.R)
+[download](Homework 2.R)
 
 ### Homework 3
 
