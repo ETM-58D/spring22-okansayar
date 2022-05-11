@@ -12,5 +12,5 @@
 ### Homework 3
 
 ### Homework 4
-[here] (HW4.html) is the HTML file for Fourth Homework
-[here] is the R Script for Fourth Homework
+[here] HW4.html is the HTML file for Fourth Homework
+[here] HW4.R is the R Script for Fourth Homework
