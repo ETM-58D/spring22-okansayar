@@ -13,7 +13,7 @@
 
 [here](HW3.html) is the HTML file for third Homework
 
-[here]() is the R Script for third Homework
+[here](HW3.R) is the R Script for third Homework
 
 ### Homework 4
 [here](HW4.html) is the HTML file for fourth Homework
