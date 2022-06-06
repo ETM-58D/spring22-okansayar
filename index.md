@@ -21,5 +21,5 @@
 [here](HW4.R) is the R Script for fourth Homework
 
 ### ETM 58D FINAL
-[here] (ETM58D_Fina_Okan_Sayar.html) is the HTML file for the final exam
-[here] () is the R Script for the final exam
+[here](ETM58D_Fina_Okan_Sayar.html) is the HTML file for the final exam
+[here]() is the R Script for the final exam
