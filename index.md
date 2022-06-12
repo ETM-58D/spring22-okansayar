@@ -25,8 +25,7 @@
 
 [here](ETM58D_Fina_Okan_Sayar.R) is the R Script for the final exam
 
-### ETM 58D Business Analytics
-### Solar Power Forecasting
+### ETM 58D Business Analytics - Solar Power Forecasting
 [here](ETM58D_Project_-Solar-Panel-Forecasting-_Final_Version.html) is the HTML file for the project
 
 [here](ETM58D_Project_(Solar Panel Forecasting)_Final_Version.R) is the R Script file for the project
