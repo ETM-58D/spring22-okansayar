@@ -24,3 +24,9 @@
 [here](ETM58D_Fina_Okan_Sayar.html) is the HTML file for the final exam
 
 [here](ETM58D_Fina_Okan_Sayar.R) is the R Script for the final exam
+
+### ETM 58D Business Analytics
+### Solar Power Forecasting
+[here]() is the HTML file for the project
+
+[here]() is the R Script file for the project
