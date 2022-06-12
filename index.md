@@ -27,6 +27,6 @@
 
 ### ETM 58D Business Analytics
 ### Solar Power Forecasting
-[here]() is the HTML file for the project
+[here](ETM58D_Project_-Solar-Panel-Forecasting-_Final_Version.html) is the HTML file for the project
 
 [here]() is the R Script file for the project
